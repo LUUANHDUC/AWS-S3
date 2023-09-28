@@ -1,5 +1,3 @@
-Dưới đây là mã nguồn đã được căn chỉnh lại để bỏ số thứ tự dòng hộ:
-
 ```java
 /**
  * Downloads stored image using storage service. Check if url parameter is present if not return preview page
